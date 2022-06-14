@@ -10,9 +10,7 @@
 
 ## Code For Simple Tailwind Starter - [https://github.com/bradtraversy/simple-tailwind-starter]
 
-# Documentation:
-
-[https://tailwindcss.com]
+# Documentation: [https://tailwindcss.com]
 
 # Course Credit:
 
